@@ -1,4 +1,4 @@
-Efficacité énergétique des bâtiments intelligents  
+# Efficacité énergétique des bâtiments intelligents  
 Explique comment l'efficacité énergétique des bâtiments intelligents peut être améliorée grâce à des technologies. En effet, les bâtiments consomment plus de 30 % de l'énergie mondiale et l'optimisation des systèmes de chauffage, ventilation, climatisation, et des équipements (ascenseurs) est cruciale. Les gouvernements imposent des réglementations strictes pour réduire consommation d'énergie et émissions CO2. Des solutions (capteurs intelligents, systèmes d'automatisation, variateurs de vitesse) permettent d’économiser l’énergie. Ces technologies offrent retour sur investissement rapide + contribuent à la durabilité.	 
 https://global.abb/content/dam/abb/global/energy-efficiency-movement/fr-fr/whitepapers/ABB_EE_Efficacite_energetique-des-batiments_intelligents.pdf	 
 Internet des objets,Technologie,Villes intelligentes	 
