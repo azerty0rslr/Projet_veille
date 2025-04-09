@@ -1,4 +1,4 @@
-Efficacité énergétique dans les bâtiments au Maroc  
+# Efficacité énergétique dans les bâtiments au Maroc  
 Ce document nous rappelle que l’efficacité énergétique s’inscrit dans la démarche de l’objectif développement durable d’ici 2030 (objectif n°7 : l’accès à l’énergie et aux énergies propres). L’efficacité énergétique dans les bâtiments au Maroc est une priorité nationale, avec des objectifs de réduction de 20 % de la consommation d’ici 2030, soutenus par des réglementations thermiques et des normes de performance. Des solutions techniques, comme l’isolation optimisée et les équipements à haute efficacité, sont mises en avant pour améliorer l’impact économique et environnemental, malgré des défis liés aux coûts et aux contraintes réglementaires.  
 https://www.peeb.build/imglib/downloads/PEEB%E2%80%8B_efficacite-energetique-dans-les-batiments-au-maroc%E2%80%8B_support-de-sensibilation%E2%80%8B.pdf.pdf  
 Internet des objets,Villes intelligentes  
