@@ -7,7 +7,6 @@
 ## Histoire de l'IoT
 Le concept de connexion d’appareils pour communiquer entre eux remonte aux débuts d’Internet. Le terme « Internet des objets » a été inventé pour la première fois par Kevin Ashton en 1999, mais les idées fondamentales remontent encore plus loin.
 
-### Premières innovations
 **Années 1970 :** Le concept de systèmes embarqués a commencé à prendre forme, où des microprocesseurs étaient intégrés dans des dispositifs pour contrôler des fonctions spécifiques.  
 **Années 1980 :** Le développement des technologies de communication sans fil comme la RFID (Radio Frequency Identification) et les premiers exemples de communication de machine à machine (M2M) ont émergé.  
 **Années 1990 :** La prolifération d'Internet et les progrès de la technologie sans fil ouvrent la voie à la révolution de l'IoT. Les premières applications incluaient les distributeurs automatiques connectés et la communication industrielle M2M.  
