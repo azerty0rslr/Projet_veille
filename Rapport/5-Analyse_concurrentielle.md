@@ -17,6 +17,13 @@
 - **Oracle IoT :** Oracle IoT fournit une plate-forme complète pour créer et déployer des applications IoT. L'expertise d'Oracle dans les bases de données et le cloud computing permet des solutions IoT robustes et évolutives.
 
 ## Startups disruptives
+De nombreuses startups IoT sont à l’origine de l’innovation dans le domaine. Ces entreprises développent des solutions de pointe qui transforment les secteurs et repoussent les limites des capacités de l'IoT. Certaines des startups IoT les plus prometteuses incluent :  
+
+**Armis :** Spécialisé dans la sécurité IoT d'entreprise, offrant visibilité et protection aux appareils connectés.
+**Augure :** Utilise des capteurs IoT et l'IA pour surveiller les équipements industriels et prévoir les besoins de maintenance.
+**Particule :** Offre une plate-forme pour créer et gérer des appareils et des applications IoT, en mettant l'accent sur la simplicité et l'évolutivité.
+**Hélium :** Développe des réseaux sans fil décentralisés pour les appareils IoT, permettant une connectivité sécurisée et évolutive.
+**SmartRent :** Fournit des solutions IoT pour la gestion immobilière, notamment des serrures intelligentes, des thermostats et des capteurs.
 
 ## Cas concrets
 
