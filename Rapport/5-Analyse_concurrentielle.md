@@ -43,7 +43,7 @@ Les gouvernements du monde entier créent des politiques favorables et investiss
 - **Samsung SmartThings :** Samsung SmartThings propose une plate-forme pour connecter et gérer les appareils domestiques intelligents. SmartThings permet une intégration transparente de divers appareils IoT pour une commodité et une automatisation améliorées.  
 - **Oracle IoT :** Oracle IoT fournit une plate-forme complète pour créer et déployer des applications IoT. L'expertise d'Oracle dans les bases de données et le cloud computing permet des solutions IoT robustes et évolutives.
 
-## Startups disruptives
+## Startups innovantes 
 De nombreuses startups IoT sont à l’origine de l’innovation dans le domaine. Ces entreprises développent des solutions de pointe qui transforment les secteurs et repoussent les limites des capacités de l'IoT. Certaines des startups IoT les plus prometteuses incluent :  
 
 **Armis :** Spécialisé dans la sécurité IoT d'entreprise, offrant visibilité et protection aux appareils connectés.  
