@@ -14,3 +14,6 @@
 ## Lien entre IoT et efficacité énergétique
 
 ## Données chiffrées mondiales
+Selon Cisco Internet Business Solutions Group (IBSG), la naissance de l’Internet des objets a eu lieu lorsqu'il y a eu plus d’objets connectés à Internet que de personnes sur Terre, c'est-à-dire entre 2008 et 2009. En 2010, le nombre d'appareils connectés atteignait déjà 12,5 milliards, pour 6,8 milliards d'individus.  
+En 2020, on comptait plus de 21,7 milliards d'objets connectés dans le monde : 11,7 milliards d'objets connectés, auxquels il faut ajouter 10 milliards de smartphones, tablettes et ordinateurs, qui bien que connectés, ne comptent pas parmi les objets IoT.  
+Par ailleurs, on peut estimer que les dépenses mondiales en matière d'Internet des objets atteindront 1 100 milliards de dollars en 2023.  
