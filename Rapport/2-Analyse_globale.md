@@ -10,8 +10,21 @@
 **Efficacité énergétique :** d'après wikipédia "L'efficacité énergétique ou efficience énergétique est l'état de fonctionnement d'un système pour lequel la consommation d’énergie est minimisée pour un service rendu identique." c'est donc l'optimisation de la consommation énergétique pour qu’elle soit économique et durable
 
 ## Enjeux énergétiques liés aux bâtiments
+Les bâtiments sont parmi les plus gros consommateurs d’énergie au monde. Selon l’Agence internationale de l’énergie (AIE), ils représentent environ 30 à 40 % de la consommation énergétique mondiale et environ 30 % des émissions de gaz à effet de serre. Cette consommation est principalement liée au chauffage, à la climatisation, à l’éclairage et à l’usage des équipements électroniques.  
+
+**Enjeux principaux :**
+- Réduction des consommations énergétiques sans dégrader le confort des occupants.  
+- Transition vers des énergies renouvelables, nécessitant une gestion plus flexible de la demande.  
+- Suivi et mesure fine des consommations pour détecter les gaspillages.  
+- Modernisation d’un parc immobilier souvent ancien, énergivore et mal isolé.  
 
 ## Lien entre IoT et efficacité énergétique
+L’IoT, ou Internet des objets, permet de connecter en temps réel les équipements d’un bâtiment (capteurs, systèmes HVAC, éclairage, etc.) à des plateformes de gestion énergétique. Grâce à cela :
+- Collecte de données en continu sur la température, l’occupation des pièces, la qualité de l’air, etc.
+- Analyse en temps réel pour détecter des comportements énergétiques anormaux.
+- Contrôle intelligent des équipements (éteindre une lumière dans une pièce vide, ajuster le chauffage en fonction de la météo ou de la présence).
+- Optimisation automatisée des consommations selon les habitudes des occupants, les horaires ou les tarifs de l’électricité.
+Cette synergie permet de passer d’une gestion passive de l’énergie à une gestion active, prédictive et optimisée, souvent avec des économies de 15 à 30 %.
 
 ## Données chiffrées mondiales
 Selon Cisco Internet Business Solutions Group (IBSG), la naissance de l’Internet des objets a eu lieu lorsqu'il y a eu plus d’objets connectés à Internet que de personnes sur Terre, c'est-à-dire entre 2008 et 2009. En 2010, le nombre d'appareils connectés atteignait déjà 12,5 milliards, pour 6,8 milliards d'individus.  
