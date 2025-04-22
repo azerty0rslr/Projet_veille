@@ -2,7 +2,9 @@
 Projet de veille de première année sur l'IoT
 
 ## Livrables attendus
-A4, 15 pages (hors annexes, page de garde, table de matières, captures d'écran), taille 12, interlignes et marges standards  
+**Rapport écrit :** A4, 15 pages (hors annexes, page de garde, table de matières, captures d'écran), taille 12, interlignes et marges standards  
+**Présentation orale :** 30 min - 15min de présentation, 10min de questions, 5min de debrief  
+  
 **Contenu :**   
 - Page de garde (titre du projet, noms des membres du groupe, date)  
 - Introduction (présentation de la problématique, objectifs du projet)  
