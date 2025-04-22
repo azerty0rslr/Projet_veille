@@ -1,5 +1,7 @@
-# Projet_veille
-Projet de veille de première année sur l'IoT
+# Projet veille B1
+Comment les objets connectés (IoT) peuvent-ils améliorer l'efficacité énergétique dans les bâtiments intelligents ?  
+**Description :** étudier comment les capteurs et dispositifs IoT peuvent surveiller et optimiser la consommation d'énergie dans les bâtiments. Analyser des exemples concrets et les technologies de base utilisées.  
+**Objectifs :** Identifier des solutions IoT simples pour réduire la consommation énergétique et proposer des améliorations pratiques.  
 
 ## Livrables attendus
 **Rapport écrit :** A4, 15 pages (hors annexes, page de garde, table de matières, captures d'écran), taille 12, interlignes et marges standards  
@@ -25,8 +27,3 @@ Préparation technique, répétitions, gestion du temps
 **Evaluation :** rapport écrit 50%, présentation orale 35%, suivi 15%  
 **Rapport écrit :** à remettre sous forme électronique pour le [date]  
 **Présentation orale :** entrainement le 2 juin, présentation le [date]  
-
-# Sujet
-Comment les objets connectés (IoT) peuvent-ils améliorer l'efficacité énergétique dans les bâtiments intelligents ?  
-**Description :** étudier comment les capteurs et dispositifs IoT peuvent surveiller et optimiser la consommation d'énergie dans les bâtiments. Analyser des exemples concrets et les technologies de base utilisées.  
-**Objectifs :** Identifier des solutions IoT simples pour réduire la consommation énergétique et proposer des améliorations pratiques.  
