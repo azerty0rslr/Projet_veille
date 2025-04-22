@@ -13,3 +13,6 @@ Attention contenu datant de 2018
 # Qu’est ce que l’internet des objets (IoT) ?		
 https://www.globalgrowthinsights.com/fr/blog/internet-of-things-iot--348  
 Contenu de mai 2024 très complet  
+
+# Adopter IoT dans les bâtiments
+https://www.wattsense.com/fr-fr/blog/gestion-du-batiment/adopter-lot-dans-les-batiments/
