@@ -1,4 +1,4 @@
-# Innovations clés (1,5 pages - ~750 mots)
+# Innovations clés
 - Capteurs de présence intelligents  
 - Systèmes HVAC adaptatifs  
 - Maintenance prédictive via IoT  
