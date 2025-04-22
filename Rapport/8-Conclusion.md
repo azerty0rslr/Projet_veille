@@ -1,4 +1,4 @@
-# Conclusion (½ page - ~250 mots)
+# Conclusion
 - Récapitulatif des apports de l’IoT  
 - Ouverture : vers des bâtiments autonomes ?  
 
