@@ -1,4 +1,4 @@
-# Analyse concurrentielle (1 page - ~500 mots)
+# Analyse concurrentielle
 - Acteurs majeurs du marché (Schneider Electric, Siemens, Honeywell…)  
 - Startups disruptives  
 - Cas concrets comparés : bâtiments équipés vs non-équipés  
