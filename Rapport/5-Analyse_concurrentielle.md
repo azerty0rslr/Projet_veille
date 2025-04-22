@@ -53,5 +53,26 @@ De nombreuses startups IoT sont à l’origine de l’innovation dans le domaine
 **SmartRent :** Fournit des solutions IoT pour la gestion immobilière, notamment des serrures intelligentes, des thermostats et des capteurs.  
 
 ## Cas concrets
+![image](https://github.com/user-attachments/assets/e9614189-2d09-48e8-bec8-05d66a7db21e)
+
+Les systèmes modernes d'économie d’énergie constituent
+souvent un bon investissement. En effet, pour les opérateurs
+et les propriétaires de bâtiments, un système de gestion
+intelligente de base peut permettre d’enregistrer des
+économies annuelles de 25 %, avec un retour sur
+investissement en moins de deux ans.  
+Un bon exemple : récemment, des variateurs CVC ABB et des
+moteurs IE3 à haute efficacité énergétique ont été utilisés
+pour rénover les systèmes CVC et d’alimentation en
+eau chaude de l’hôtel InterContinental de Madrid.
+Treize variateurs de vitesse ABB et seize moteurs IE3 ont
+ainsi été intégrés à la GTB, ce qui a permis d’enregistrer
+des économies d'énergie d’environ 40 % et d’aider l’hôtel
+à atteindre ses objectifs de développement durable.
+Sur l’année, ces économies se sont élevées à 445 000 kWh
+et ont conduit à une réduction de la facture énergétique
+de l’hôtel de 37 000 $. Le retour sur investissement prévu
+a ainsi été obtenu en exactement deux ans.
+
 
 ## Forces/Faiblesses des solutions actuelles
