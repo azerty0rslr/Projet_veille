@@ -1,4 +1,4 @@
-# Réponse à la problématique (1,5 pages - ~750 mots)
+# Réponse à la problématique
 - Synthèse des meilleures pratiques  
 - Recommandations pour une intégration efficace de l’IoT  
 - Exemples de roadmap technologique  
