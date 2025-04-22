@@ -1,4 +1,4 @@
-# Introduction (½ page - ~250 mots)
+# Introduction
 - Contexte : enjeux énergétiques globaux  
 - Rôle croissant des bâtiments intelligents  
 - L’apport de l’IoT dans la gestion énergétique  
