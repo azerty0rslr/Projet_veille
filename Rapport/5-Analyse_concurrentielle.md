@@ -72,7 +72,8 @@ des économies d'énergie d’environ 40 % et d’aider l’hôtel
 Sur l’année, ces économies se sont élevées à 445 000 kWh
 et ont conduit à une réduction de la facture énergétique
 de l’hôtel de 37 000 $. Le retour sur investissement prévu
-a ainsi été obtenu en exactement deux ans.
+a ainsi été obtenu en exactement deux ans.  
+- Source ABB
 
 
 ## Forces/Faiblesses des solutions actuelles
