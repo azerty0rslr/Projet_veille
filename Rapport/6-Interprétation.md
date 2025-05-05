@@ -26,7 +26,8 @@ La croissance rapide de l’IoT nécessite le développement de cadres réglemen
 **Règlements de sécurité :** Établir des normes de sécurité pour les appareils IoT afin de protéger les utilisateurs et le public.  
 
 ## Interopérabilité et scalabilité
-  
+Concrètement, l’interopérabilité désigne des systèmes capables de s’adapter et de collaborer avec d’autres systèmes indépendants, afin de créer un réseau et de faciliter le transfert de données.  
+L’interopérabilité est une problématique connue des acteurs de l’ioT. Cela est renforcé par la multiplication des objets connectés qui ne communiquent pas entre eux et des gateways qui ne peuvent par interpréter les données de tous les capteurs. Les différents protocoles (EnOcean, Zigbee, Z-Wave, Bluetooth, Wi-Fi…) ne parlent pas entre eux et cela peut créer des difficultés d’installation et de fonctionnement au sein d’un même logement/bâtiment.  
 
 ## Données personnelles
   
