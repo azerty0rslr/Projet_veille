@@ -16,3 +16,6 @@ Contenu de mai 2024 très complet
 
 # Adopter IoT dans les bâtiments
 https://www.wattsense.com/fr-fr/blog/gestion-du-batiment/adopter-lot-dans-les-batiments/
+
+# Analyse de l'impact de l'IoT sur la performance industrielle (réponse problématique)
+https://iconics.fr/limpact-de-liot-sur-la-performance-industrielle-analyse-de-linternet-des-objets-dans-la-collecte-et-lanalyse-des-donnees-pour-une-production-intelligente/
