@@ -22,3 +22,7 @@ https://iconics.fr/limpact-de-liot-sur-la-performance-industrielle-analyse-de-li
 
 # Forces et faiblesses maison connectée
 https://homenergie.maison-travaux.fr/homenergie/solutions-du-quotidien-home-energie/objets-connectes-home-energie/maison-connectee-force-et-faiblesse-fp-250079.html
+
+# Interopérabilité IoT
+https://nodon.fr/blogs/infos/l-interoperabilite-dans-l-iot-definition-et-solution#:~:text=L%27interopérabilité%20est%20une%20problématique,données%20de%20tous%20les%20capteurs.
+
