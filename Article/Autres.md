@@ -26,3 +26,5 @@ https://homenergie.maison-travaux.fr/homenergie/solutions-du-quotidien-home-ener
 # Interopérabilité IoT
 https://nodon.fr/blogs/infos/l-interoperabilite-dans-l-iot-definition-et-solution#:~:text=L%27interopérabilité%20est%20une%20problématique,données%20de%20tous%20les%20capteurs.
 
+# RGPD et IoT en 2024
+https://dpo-consulting.fr/le-rgpd-et-linternet-des-objets-iot-defis-et-opportunites-en-2024/#:~:text=Les%20dispositifs%20IoT%20collectent%20une,et%20les%20données%20de%20santé.
