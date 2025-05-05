@@ -3,7 +3,14 @@
 - Ouverture : vers des bâtiments autonomes ?  
 
 ## Récapitulatif 
-L'Internet des objets (IoT) est sur le point de devenir une industrie de plusieurs milliards de dollars, révolutionnant divers secteurs et transformant notre façon de vivre et de travailler. À mesure que l’IoT continue de progresser, il entraînera des améliorations significatives en termes d’efficacité, de productivité et de qualité de vie. Cependant, il est essentiel de relever les défis éthiques, sociaux et réglementaires pour garantir que les avantages de l’IoT soient partagés de manière équitable et responsable. En exploitant le potentiel de l’IoT et en relevant ses défis, nous pouvons créer un avenir dans lequel l’IoT constitue un outil puissant pour améliorer la condition humaine et faire progresser notre compréhension du monde.
+L'Internet des objets (IoT) est sur le point de devenir une industrie de plusieurs milliards de dollars, révolutionnant divers secteurs et transformant notre façon de vivre et de travailler. À mesure que l’IoT continue de progresser, il entraînera des améliorations significatives en termes d’efficacité, de productivité et de qualité de vie. Cependant, il est essentiel de relever les défis éthiques, sociaux et réglementaires pour garantir que les avantages de l’IoT soient partagés de manière équitable et responsable. En exploitant le potentiel de l’IoT et en relevant ses défis, nous pouvons créer un avenir dans lequel l’IoT constitue un outil puissant pour améliorer la condition humaine et faire progresser notre compréhension du monde.  
+Avec l’essor de l’intelligence artificielle, les solutions IoT deviennent de plus en plus performantes. Les nouveaux systèmes sont capables de traiter un grand volume de données en temps réel et d’effectuer des analyses avancées pour améliorer la prise de décision.  
+
+Dans les années à venir, les technologies IoT seront intégrées à des réseaux énergétiques intelligents, permettant une gestion prédictive et proactive des consommations. Grâce aux avancées en intelligence artificielle, les bâtiments pourront ajuster automatiquement leur consommation en fonction de la demande énergétique et des conditions climatiques.
+
+Par ailleurs, l’utilisation des objets connectés s’étendra à de nouveaux domaines tels que la mobilité durable, avec des infrastructures capables d’optimiser la recharge des véhicules électriques en fonction des disponibilités du réseau.
+
+L’IoT devient ainsi un levier majeur pour la transition énergétique, contribuant à une gestion plus efficiente et plus durable des ressources dans tous les secteurs d’activité.
 
 Un bâtiment à haute efficacité énergétique équipé de
 systèmes de gestion intelligents peut être un critère de
