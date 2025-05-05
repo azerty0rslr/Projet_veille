@@ -77,3 +77,9 @@ a ainsi été obtenu en exactement deux ans.
 
 
 ## Forces/Faiblesses des solutions actuelles
+### Forces
+Le confort : avec la maison connectée, le confort de vie devient exceptionnel. Grâce à elle, vous avez la possibilité de profiter des ambiances lumineuses et sonores programmées et de l’optimisation de la régulation de la température. D’autre part, vous pouvez profiter de l’automatisation des volets et des lumières, sans oublier la gestion à distance des prises électriques ;  
+L’économie d’énergie : grâce à la technologie domotique, la maison connectée participe à la réduction des factures d’énergie à hauteur de 40 %. Elle permet également le réglage du chauffage dans chaque pièce, la programmation des volets et la gestion de la température ;  
+La sécurité : grâce aux détecteurs de CO2 et de fumée, les risques d’accident et d’incendie sont considérablement diminués. Des caméras et des détecteurs de présence sont aussi présents et vous préviennent lors des intrusions dans votre maison.  
+### Faiblesses
+Malgré tout, la maison connectée présente certains inconvénients. Le principal problème concerne surtout son prix d’achat et le coût élevé de son installation. D’un autre côté, cette technologie crée une certaine accoutumance de l’utilisateur.  
