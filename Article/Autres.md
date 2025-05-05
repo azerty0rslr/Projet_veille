@@ -19,3 +19,6 @@ https://www.wattsense.com/fr-fr/blog/gestion-du-batiment/adopter-lot-dans-les-ba
 
 # Analyse de l'impact de l'IoT sur la performance industrielle (réponse problématique)
 https://iconics.fr/limpact-de-liot-sur-la-performance-industrielle-analyse-de-linternet-des-objets-dans-la-collecte-et-lanalyse-des-donnees-pour-une-production-intelligente/
+
+# Forces et faiblesses maison connectée
+https://homenergie.maison-travaux.fr/homenergie/solutions-du-quotidien-home-energie/objets-connectes-home-energie/maison-connectee-force-et-faiblesse-fp-250079.html
