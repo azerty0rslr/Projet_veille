@@ -16,7 +16,7 @@ Ce projet vise à explorer l’impact des objets connectés (IoT) sur l'efficaci
 ### **1. Rapport écrit**
 - Format : A4, 15 pages hors annexes (page de garde, table des matières, captures d’écran)
 - Police : taille 12, interlignes et marges standards
-- Remise : au format numérique, avant le **[date]**
+- Remise : au format numérique, avant le **20 juin**
 
 ### **2. Présentation orale**
 - Durée totale : 30 minutes  
