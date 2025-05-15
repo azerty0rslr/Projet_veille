@@ -1,3 +1,4 @@
+#cam
 # Tendances principales
 - Capteurs intelligents et monitoring énergétique  
 - Automatisation et IA dans la gestion énergétique  
