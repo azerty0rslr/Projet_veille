@@ -29,7 +29,8 @@ Clarté : Bonne explication de l’objectif de la veille.
 Suggestion :  
 Uniformiser le temps verbal (passer tout au passé ou tout au présent).  
 
-Reformuler : “étudier les différents moyens employés par les entreprises pour améliorer leur efficacité énergétique” ➡️ “analyser les stratégies mises en œuvre par les entreprises pour optimiser leur consommation énergétique.”  
+Reformuler : “étudier les différents moyens employés par les entreprises pour améliorer leur efficacité énergétique”  
+➡️ “analyser les stratégies mises en œuvre par les entreprises pour optimiser leur consommation énergétique.”  
 
 # Méthodologie
 Remarques :  
