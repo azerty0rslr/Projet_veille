@@ -3,7 +3,7 @@
 ### 1. Articles Académiques & Études de Cas
 Historique (2000-2010s)
 1.	Farhangi, H. (2010) – "The Path of the Smart Grid"
-  - 	IEEE Power and Energy Magazine
+  - IEEE Power and Energy Magazine
   - Lien : DOI 10.1109/MPE.2009.934876
   - Fondements des smart grids et leur lien avec l’IoT.
 2.	Gubbi, J. et al. (2013) – "Internet of Things (IoT): A Vision, Architectural Elements, and Future Directions"
