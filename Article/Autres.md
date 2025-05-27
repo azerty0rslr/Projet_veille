@@ -28,3 +28,6 @@ https://nodon.fr/blogs/infos/l-interoperabilite-dans-l-iot-definition-et-solutio
 
 # RGPD et IoT en 2024
 https://dpo-consulting.fr/le-rgpd-et-linternet-des-objets-iot-defis-et-opportunites-en-2024/#:~:text=Les%20dispositifs%20IoT%20collectent%20une,et%20les%20données%20de%20santé.
+
+# Exemple Oslo ville intelligente 27/05
+https://www.ecoreseau.fr/environnement/oslo-la-ou-sinspirer-pour-demain-2024-09-03-106958
