@@ -20,6 +20,6 @@ Exploitation des acquis théoriques et qualité de la présentation 5pt : utilis
 Répartition de la prise de parole 5pt : participation équilibrée de tous les membres du groupe  
 
 # Suivi (15%)
-Respect des délais 5pt : remise des comptes rendus hebdomadaires et respect des échéances
-Qualité des comptes rendus 5pt : clarté et pertinence des comptes rendus
-Interaction avec l'accompagnant 5pt : participation active aux rendez-vous et intégration des feedbacks
+Respect des délais 5pt : remise des comptes rendus hebdomadaires et respect des échéances  
+Qualité des comptes rendus 5pt : clarté et pertinence des comptes rendus  
+Interaction avec l'accompagnant 5pt : participation active aux rendez-vous et intégration des feedbacks  
