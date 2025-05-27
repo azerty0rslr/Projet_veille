@@ -149,3 +149,6 @@ Exploitation des acquis théoriques : bien mettre en avant les cours appris
 Bibliographie : www.site.com - consulté le 25/05  
 Interlignes : 6pt avant titre bloc et 0pt après  
 Marges : 18  
+
+Ce que nous avons appris (conclusion)
+Bibliographie -> sitographie
