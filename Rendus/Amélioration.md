@@ -149,6 +149,5 @@ Exploitation des acquis théoriques : bien mettre en avant les cours appris
 Bibliographie : www.site.com - consulté le 25/05  
 Interlignes : 6pt avant titre bloc et 0pt après  
 Marges : 18  
-
-Ce que nous avons appris (conclusion)
-Bibliographie -> sitographie
+Bibliographie -> sitographie  
+PPTX : moins de texte, rajouter un deuxième cas concret, plus définir chaque termes/notion technologique, bien évoquer pourquoi passé de notion à github, bien se présenter au début puis faire l'intro.  
