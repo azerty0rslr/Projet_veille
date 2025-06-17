@@ -209,3 +209,41 @@ Exemple : dans les capteurs, ne pas répéter ce qui a déjà été dit plus hau
 Manque : Pas de synthèse pour clôturer la partie.  
 Ajouter un paragraphe de bilan en fin de partie V, par exemple :  
 En somme, l’Internet des objets offre des leviers puissants pour améliorer l’efficacité énergétique des bâtiments intelligents. Toutefois, son déploiement à grande échelle implique de relever des défis techniques, économiques et éthiques, notamment en matière de cybersécurité, d'interopérabilité et de respect de la vie privée.  
+
+
+# Passages à modifier
+## 🟧 1. Copier-coller évident (principalement depuis Wikipédia ou brochures)
+🔹 Définitions non reformulées :
+« IoT : d'après Wikipédia 'L'Internet des objets ou IdO (en anglais Internet of Things ou IoT) est l'interconnexion entre l'Internet et des objets, des lieux et des environnements physiques.' »
+
+« Efficacité énergétique : d'après Wikipédia 'L'efficacité énergétique ou efficience énergétique est l'état de fonctionnement d'un système pour lequel la consommation d’énergie est minimisée pour un service rendu identique.' »
+
+🔹 Historique technique très détaillé, avec dates précises alignées à des sources externes non reformulées :
+« Années 1970 : Le concept de systèmes embarqués a commencé à prendre forme […] »
+« Années 1980 : Le développement des technologies de communication sans fil comme la RFID […] »
+« Années 2000 : L'introduction d'IPv6 […] »
+
+## 🟧 2. Ton artificiel / probablement généré ou fortement assisté par IA
+🔹 Formulations très générales et lissées :
+« L’Internet des objets (IoT) est sur le point de devenir une industrie de plusieurs milliards de dollars, révolutionnant divers secteurs et transformant notre façon de vivre et de travailler. »
+
+« En exploitant le potentiel de l’IoT et en relevant ses défis, nous pouvons créer un avenir dans lequel l’IoT constitue un outil puissant pour améliorer la condition humaine. »
+
+« Les industriels qui intègrent dès aujourd’hui ces technologies bénéficieront d’un avantage concurrentiel significatif et d’une meilleure résilience face aux défis de demain. »
+
+« Les prochaines étapes impliquent : 1. L’intégration des jumeaux numériques, 2. La convergence IoT-blockchain pour des smart grids décentralisés, 3. L’adoption massive de la 5G/6G. »
+
+## 🟧 3. Style trop promotionnel / "brochure entreprise"
+🔹 Ton trop positif ou exagérément fluide :
+« Grâce à la technologie domotique, la maison connectée participe à la réduction des factures d’énergie à hauteur de 40 %. »
+
+« Les technologies d’IoT présentes peuvent être rentables très rapidement dans certains cas mais peuvent prendre plus de temps en fonction des utilisateurs présents. »
+
+« L’IoT s’impose comme un levier stratégique pour l’industrie moderne. En améliorant la visibilité, l’efficacité et la sécurité des opérations, il transforme la façon dont les entreprises gèrent leurs ressources et leurs équipements. »
+
+« Les assistants vocaux basés sur l'IA comme Amazon Alexa et Google Assistant deviendront plus sophistiqués, offrant une interaction et un contrôle transparents sur les appareils domestiques. »
+
+### 🟨 Autres indices mineurs (ton à surveiller)
+« Une ville intelligente a pour but d'améliorer la qualité de vie des citadins […] » (ton "plan com" de collectivité)
+
+« Les appareils domestiques intelligents et les appareils connectés font désormais partie intégrante de la vie quotidienne. » (langage marketing non problématique mais un peu figé)
